@@ -1,1 +1,1 @@
-# coming-soon-starter
+# coming-soon
